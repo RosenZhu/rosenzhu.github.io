@@ -17,7 +17,7 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
 - **[Dec. 2021]** Our paper about optimizing fuzzing schedule is accepted to ICSE 2022.
 - **[Mar. 2021]** Our paper about IoT fuzzing is accepted to CCS 2021.
 - **[Feb. 2021]** Our paper about regression greybox fuzzing is accepted to CCS 2021.
-- **[Sept. 2020]** Our paper about full-speed fuzzing is accepted to TDSC.
+- **[Sep. 2020]** Our paper about full-speed fuzzing is accepted to TDSC.
 - **[Mar. 2019]** Our paper about evaluation corpus for fuzzing is accepted to AsiaCCS 2019.
 
 ## Selected Publications
@@ -49,7 +49,7 @@ Kunpeng Zhang, Xi Xiao, **Xiaogang Zhu**, Ruoxi Sun, Minhui Xue, Sheng Wen.
 
 - **Regression Greybox Fuzzing**
   <br>
-  **Xiaogang Zhu**, Marcel B{\"o}hme
+  **Xiaogang Zhu**, Marcel B&ouml;hme
   <br>
   ACM Conference on Computer and Communications Security. **CCS 2021**.
   <br>
