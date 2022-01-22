@@ -28,7 +28,7 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
   <br>
   ACM Computing Surveys. 2022. **CSUR**.
   <br>
-  [[PDF]()] [[Code]()] 
+  [[DOI](https://doi.org/10.1145/3512345)]
   <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
 - **Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States**
@@ -69,7 +69,7 @@ Kunpeng Zhang, Xi Xiao, **Xiaogang Zhu**, Ruoxi Sun, Minhui Xue, Sheng Wen.
   <br>
   ACM Asia Conference on Computer and Communications Security. **AsiaCCS 2019**
   <br>
-  [[DOI](https://doi.org/10.1145/3321705.3329845)] [[Code]()]
+  [[DOI](https://doi.org/10.1145/3321705.3329845)]
   
 
 ## Services
