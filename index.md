@@ -4,47 +4,75 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Research Fellow at Swinburne University of Technology. My research interest focuses on software/hardware security by using technologies such as fuzzing.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Cybersecurity:** software security, IoT security, fuzzing
+<!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2022]** Our survey about fuzzing is accepted to ACM Computing Surveys.
+- **[Dec. 2021]** Our paper about optimizing fuzzing schedule is accepted to ICSE 2022.
+- **[Mar. 2021]** Our paper about IoT fuzzing is accepted to CCS 2021.
+- **[Feb. 2021]** Our paper about regression greybox fuzzing is accepted to CCS 2021.
+- **[Sept. 2020]** Our paper about full-speed fuzzing is accepted to TDSC.
+- **[Mar. 2019]** Our paper about evaluation corpus for fuzzing is accepted to AsiaCCS 2019.
 
-## Publications
+## Selected Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Fuzzing: A Survey for Roadmap**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Xiaogang Zhu**, Sheng Wen, Seyit Camtepe, Yang Xiang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  ACM Computing Surveys. 2022. **CSUR**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF]()] [[Code]()] 
+  <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+  - **Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Kunpeng Zhang, Xi Xiao, **Xiaogang Zhu**, Ruoxi Sun, Minhui Xue, Sheng Wen.
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  44th International Conference on Software Engineering. **ICSE 2022**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://arxiv.org/pdf/2201.04441.pdf)] [[Code](https://github.com/truzz-fuzz/truzz-fuzz)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  Xiaotao Feng, Ruoxi Sun, **Xiaogang Zhu**, Jason Xue, Sheng Wen, Dongxi Liu, Surya Nepal, and Yang Xiang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  ACM Conference on Computer and Communications Security. **CCS 2021**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](https://arxiv.org/pdf/2105.05445.pdf)] [[Code](https://github.com/XtEsco/Snipuzz)]
+
+- **Regression Greybox Fuzzing**
+  <br>
+  **Xiaogang Zhu**, Marcel B{\"o}hme
+  <br>
+  ACM Conference on Computer and Communications Security. **CCS 2021**.
+  <br>
+  [[PDF](https://mboehme.github.io/paper/CCS21.pdff)] [[Code](https://github.com/aflchurn/aflchurn)] 
+
+- **CSI-Fuzz: Full-speed Edge Tracing Using Coverage Sensitive**
+  <br>
+  **Xiaogang Zhu**, Xiaotao Feng, Sheng Wen, Seyit Camtepe, Yang Xiang, and Kui Ren
+  <br>
+  IEEE Transactions on Dependable and Secure Computing. 2020. **TDSC**
+  <br>
+  [[DOI](10.1109/TDSC.2020.3008826)] [[Code](https://github.com/RosenZhu/csi-afl)]
+
+- **A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing**
+  <br>
+  **Xiaogang Zhu**, Xiaotao Feng, Tengyun Jiao, Sheng Wen, Jinglin Xue, Seyit Camtepe, and Yang Xiang
+  <br>
+  ACM Asia Conference on Computer and Communications Security. **AsiaCCS 2019**
+  <br>
+  [[DOI](10.1145/3321705.3329845)] [[Code]()]
+  
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Conference Reviewers: ICA3PP 2019, EAI QSHINE 2021.
+- Journal Reviewers: IoTJ.
