@@ -31,13 +31,13 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
   [[PDF]()] [[Code]()] 
   <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
-  - **Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States**
-  <br>
-  Kunpeng Zhang, Xi Xiao, **Xiaogang Zhu**, Ruoxi Sun, Minhui Xue, Sheng Wen.
-  <br>
-  44th International Conference on Software Engineering. **ICSE 2022**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2201.04441.pdf)] [[Code](https://github.com/truzz-fuzz/truzz-fuzz)]
+- **Path Transitions Tell More: Optimizing Fuzzing Schedules via Runtime Program States**
+<br>
+Kunpeng Zhang, Xi Xiao, **Xiaogang Zhu**, Ruoxi Sun, Minhui Xue, Sheng Wen.
+<br>
+44th International Conference on Software Engineering. **ICSE 2022**.
+<br>
+[[PDF](https://arxiv.org/pdf/2201.04441.pdf)] [[Code](https://github.com/truzz-fuzz/truzz-fuzz)]
 
 - **Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference**
   <br>
@@ -55,13 +55,13 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
   <br>
   [[PDF](https://mboehme.github.io/paper/CCS21.pdff)] [[Code](https://github.com/aflchurn/aflchurn)] 
 
-- **CSI-Fuzz: Full-speed Edge Tracing Using Coverage Sensitive**
+- **CSI-Fuzz: Full-speed Edge Tracing Using Coverage Sensitive Instrumentation**
   <br>
   **Xiaogang Zhu**, Xiaotao Feng, Sheng Wen, Seyit Camtepe, Yang Xiang, and Kui Ren
   <br>
   IEEE Transactions on Dependable and Secure Computing. 2020. **TDSC**
   <br>
-  [[DOI](10.1109/TDSC.2020.3008826)] [[Code](https://github.com/RosenZhu/csi-afl)]
+  [[DOI](https://doi.org/10.1109/TDSC.2020.3008826)] [[Code](https://github.com/RosenZhu/csi-afl)]
 
 - **A Feature-Oriented Corpus for Understanding, Evaluating and Improving Fuzz Testing**
   <br>
@@ -69,7 +69,7 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
   <br>
   ACM Asia Conference on Computer and Communications Security. **AsiaCCS 2019**
   <br>
-  [[DOI](10.1145/3321705.3329845)] [[Code]()]
+  [[DOI](https://doi.org/10.1145/3321705.3329845)] [[Code]()]
   
 
 ## Services
