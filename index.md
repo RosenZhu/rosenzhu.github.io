@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Fellow at Swinburne University of Technology. My research interest focuses on software/hardware security by using technologies such as fuzzing.
+I am a Research Fellow at Swinburne University of Technology. My research interest focuses on software/hardware security by using technologies such as fuzzing. I've published papers on top-tier venues, such as CCS, TDSC and ICSE. I've been invited to serve as a reviewer in top-tier venues, such as IEEE IoTJ and IEEE TDSC.
 
 ## Research Interests
 
@@ -75,4 +75,4 @@ Kunpeng Zhang, Xi Xiao, **Xiaogang Zhu**, Ruoxi Sun, Minhui Xue, Sheng Wen.
 ## Services
 
 - Conference Reviewers: ICA3PP 2019, EAI QSHINE 2021.
-- Journal Reviewers: IoTJ.
+- Journal Reviewers: IEEE IoTJ, IEEE TDSC
