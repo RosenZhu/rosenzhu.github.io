@@ -26,7 +26,6 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
   <br>
   Y. Zhang, **X. Zhu**, D. He, M. haghighi, S.L. Ji, S. Wen, M. Xue, Z. Peng
   <br>
-  <br>
   To be presented in USENIX Security 2023.
   <br>
 
