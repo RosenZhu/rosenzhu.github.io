@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Fellow at Swinburne University of Technology. My research interest focuses on software/hardware security by using technologies such as fuzzing. I've published papers on top-tier venues, such as CCS, TDSC and ICSE. I've been invited to serve as a reviewer in top-tier venues, such as IEEE IoTJ and IEEE TDSC.
+I am a Research Fellow at Swinburne University of Technology. My research interest focuses on software/hardware security by using technologies such as fuzzing. I've published papers on top-tier venues, such as USENIX Security, CCS, TDSC and ICSE. I've been invited to serve as a reviewer in top-tier venues, such as IEEE IoTJ and IEEE TDSC.
 
 ## Research Interests
 
@@ -13,6 +13,7 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
 
 ## News
 
+- **[May 2023]** Our research about type confusion detection in Windows COM is accepted to USENIX SEC 2023. Well done, Yuxing!
 - **[Jan. 2022]** Our survey about fuzzing is accepted to ACM Computing Surveys.
 - **[Dec. 2021]** Our paper about optimizing fuzzing schedule is accepted to ICSE 2022.
 - **[Mar. 2021]** Our paper about IoT fuzzing is accepted to CCS 2021.
@@ -21,6 +22,10 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
 - **[Mar. 2019]** Our paper about evaluation corpus for fuzzing is accepted to AsiaCCS 2019.
 
 ## Selected Publications
+- **Detecting Union Type Confusion in Component Object Model.**
+  <br>
+  To be presented in USENIX Security 2023.
+  <br>
 
 - **Fuzzing: A Survey for Roadmap**
   <br>
@@ -75,4 +80,4 @@ Kunpeng Zhang, Xi Xiao, **Xiaogang Zhu**, Ruoxi Sun, Minhui Xue, Sheng Wen.
 ## Services
 
 - Conference Reviewers: ICA3PP 2019, EAI QSHINE 2021.
-- Journal Reviewers: IEEE IoTJ, IEEE TDSC
+- Journal Reviewers: IEEE IoTJ, IEEE TDSC, ACM CSUR
