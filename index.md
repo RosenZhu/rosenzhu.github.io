@@ -8,7 +8,7 @@ I am a Research Fellow at Swinburne University of Technology. My research intere
 
 ## Research Interests
 
-- **Cybersecurity:** software security, IoT security, fuzzing
+- **Cybersecurity:** software security, system security, fuzzing
 <!-- - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
